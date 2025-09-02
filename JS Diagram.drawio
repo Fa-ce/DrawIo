@@ -106,113 +106,113 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="bujLG2WjxltrrEQL1Ik5">
-    <mxGraphModel dx="785" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1212" dy="1946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-1" value="基础" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-1" value="基础" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="35" y="218" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-2" value="组织模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-2" value="组织模块" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="204.5" width="100" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-3" value="设计沟通" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-3" value="设计沟通" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="204.5" width="100" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-4" value="代码质量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-4" value="代码质量" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="204.5" width="100" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-5" value="顶层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-5" value="顶层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="35" y="30" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-6" value="系统本身" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-6" value="系统本身" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="20" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-7" value="设计模式" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-7" value="设计模式" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="110" width="390" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-8" value="途经" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-8" value="途经" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="35" y="120" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-9" style="edgeStyle=none;html=1;entryX=0.125;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sccz1rJR24ylmoNm5KDR-2" target="Sccz1rJR24ylmoNm5KDR-7">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-9" style="edgeStyle=none;html=1;entryX=0.125;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Sccz1rJR24ylmoNm5KDR-2" target="Sccz1rJR24ylmoNm5KDR-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-10" value="让模块组织更加有序" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-10" value="让模块组织更加有序" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="75" y="168" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-11" style="edgeStyle=none;html=1;entryX=0.479;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sccz1rJR24ylmoNm5KDR-3" target="Sccz1rJR24ylmoNm5KDR-7">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-11" style="edgeStyle=none;html=1;entryX=0.479;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Sccz1rJR24ylmoNm5KDR-3" target="Sccz1rJR24ylmoNm5KDR-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-12" value="沟通更加顺畅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-12" value="沟通更加顺畅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="168" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-13" style="edgeStyle=none;html=1;entryX=0.838;entryY=1.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sccz1rJR24ylmoNm5KDR-4" target="Sccz1rJR24ylmoNm5KDR-7">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-13" style="edgeStyle=none;html=1;entryX=0.838;entryY=1.071;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Sccz1rJR24ylmoNm5KDR-4" target="Sccz1rJR24ylmoNm5KDR-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-14" value="让代码质量更有保障" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-14" value="让代码质量更有保障" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="375" y="168" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-15" value="系统应用的开发原则 SOLID&lt;br&gt;&lt;b&gt;设计原则：指导思想 设计模式背后理论基础&lt;br&gt;并不是孤立存在 相互关联 相互支撑的有机整体&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-15" value="系统应用的开发原则 SOLID&lt;br&gt;&lt;b&gt;设计原则：指导思想 设计模式背后理论基础&lt;br&gt;并不是孤立存在 相互关联 相互支撑的有机整体&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="545" y="-80" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="520" width="40" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-18" value="开闭原则：DCP&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-18" value="开闭原则：DCP&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="555" y="-20" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-19" value="单一职责原则：SRP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-19" value="单一职责原则：SRP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="545" y="30" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-20" value="依赖倒置原则：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-20" value="依赖倒置原则：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="555" y="100" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-21" value="接口隔离原则：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-21" value="接口隔离原则：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="168" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-22" value="里氏替换原则：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-22" value="里氏替换原则：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="230" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-23" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-23" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="280" as="sourcePoint" />
             <mxPoint x="520" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-25" value="场景模式-方法论" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-25" value="场景模式-方法论" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1010" y="-80" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-26" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-26" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="270" as="sourcePoint" />
             <mxPoint x="880" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-28" value="创建型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-28" value="创建型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="900" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-29" value="结构性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-29" value="结构性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="900" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-30" value="行为型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-30" value="行为型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="900" y="218" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-32" value="对扩展开放 对修改关闭" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-32" value="对扩展开放 对修改关闭" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="650" y="-20" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-33" value="一个类只做一件事情 职责单一" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-33" value="一个类只做一件事情 职责单一" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="665" y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sccz1rJR24ylmoNm5KDR-34" value="关键架构原则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Sccz1rJR24ylmoNm5KDR-34" value="关键架构原则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="660" y="100" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GLxKVAJZktgkI06kzma3-1" value="SIP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="GLxKVAJZktgkI06kzma3-1" value="SIP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="168" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fc2B0BbVplESD9cAceye-3" value="LSP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fc2B0BbVplESD9cAceye-3" value="LSP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="230" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fc2B0BbVplESD9cAceye-4" value="确保继承体系行为的一致性 使子类能够无缝替换父类 而不破坏程序的正确性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fc2B0BbVplESD9cAceye-4" value="确保继承体系行为的一致性 使子类能够无缝替换父类 而不破坏程序的正确性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="270" width="430" height="30" as="geometry" />
         </mxCell>
       </root>
